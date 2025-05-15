@@ -1,12 +1,14 @@
 # Inflation Rate Prediction in Nigeria using Deep Learning (LSTM & GRU)
 
-The Gated Recurrent Unit (GRU) model was implemented to predict Nigeria's inflation rate based on a sequence of past economic indicators and CPI components. GRU is a type of recurrent neural network (RNN) that is particularly effective for time series data, as it captures temporal dependencies while being computationally more efficient than LSTM models.
-
 This project leverages advanced deep learning techniques (LSTM and GRU) to predict Nigeria's inflation rate based on time series and macroeconomic indicators like crude oil price, production, and various CPI components.
 
 ##Project Overview
 
-Inflation prediction is crucial for economic planning and policy decisions. This project explores two Recurrent Neural Network (RNN) architectures — **Long Short-Term Memory (LSTM)** and **Gated Recurrent Unit (GRU)** — to forecast Nigeria's inflation rate using historical data.
+Inflation prediction is crucial for economic planning and policy decisions. This project explores two Recurrent Neural Network (RNN) architectures 
+
+— **Long Short-Term Memory (LSTM)**and **Gated Recurrent Unit (GRU)** 
+
+— to forecast Nigeria's inflation rate using historical data.
 
 ## Models Used
 
@@ -14,17 +16,21 @@ Inflation prediction is crucial for economic planning and policy decisions. This
 - **GRU (Gated Recurrent Unit)**
 
 Both models were trained and evaluated using the same dataset and configuration
+---
 
-Dataset
+## Dataset
 
-- **Source:** Public economic data from sources like Nigeria’s National Bureau of Statistics, OPEC, etc.
+- **Source:** Data set was gotten from Online Repository.
 - **Features:**
   - Crude Oil Price
   - Crude Oil Production
   - Crude Oil Export
   - CPI Components (e.g., food, housing, health, education)
+
 - **Target:**
   - Inflation Rate (monthly)
+
+  ---
  
   Technologies Used
 
@@ -34,7 +40,9 @@ Dataset
 - TensorFlow / Keras
 - Matplotlib & Seaborn (for visualization)
 
-  Model Performance Summary
+  ---
+
+ ## Model Performance Summary
 
 ### 🔹 GRU Model
 
@@ -84,6 +92,7 @@ Future Work
 
 ---
 
-
 For questions or collaboration:
-Your Name – LinkedIn – your.email@example.com
+Oluwatobi Adebamiro 
+– https://www.linkedin.com/in/oluwatobi-adebamiro-7a9468184 
+– tobilobaadebamiro@gmail.com
