@@ -8,7 +8,7 @@ Inflation prediction is crucial for economic planning and policy decisions. This
 
 — **Long Short-Term Memory (LSTM)**and **Gated Recurrent Unit (GRU)** 
 
-— to forecast Nigeria's inflation rate using historical data.
+to forecast Nigeria's inflation rate using historical data.
 
 ## Models Used
 
@@ -17,6 +17,7 @@ Inflation prediction is crucial for economic planning and policy decisions. This
 - **GRU (Gated Recurrent Unit)**
 
 Both models were trained and evaluated using the same dataset and configuration
+
 ---
 
 # Dataset
