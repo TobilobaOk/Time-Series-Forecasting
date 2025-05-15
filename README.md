@@ -1,8 +1,8 @@
-# Inflation Rate Prediction in Nigeria using Deep Learning (LSTM & GRU)
+# Time Series Forecasting- Infaltion Rate Prediction
 
 This project leverages advanced deep learning techniques (LSTM and GRU) to predict Nigeria's inflation rate based on time series and macroeconomic indicators like crude oil price, production, and various CPI components.
 
-##Project Overview
+## Project Overview
 
 Inflation prediction is crucial for economic planning and policy decisions. This project explores two Recurrent Neural Network (RNN) architectures 
 
@@ -13,12 +13,13 @@ Inflation prediction is crucial for economic planning and policy decisions. This
 ## Models Used
 
 - **LSTM (Long Short-Term Memory)**
+
 - **GRU (Gated Recurrent Unit)**
 
 Both models were trained and evaluated using the same dataset and configuration
 ---
 
-## Dataset
+# Dataset
 
 - **Source:** Data set was gotten from Online Repository.
 - **Features:**
