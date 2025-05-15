@@ -46,7 +46,7 @@ Both models were trained and evaluated using the same dataset and configuration
 
  ## Model Performance Summary
 
-### 🔹 GRU Model
+###  GRU Model
 
 - **Initial val_loss:** 0.0335
 - **Best val_loss:** 0.0335 (Epoch 1)
