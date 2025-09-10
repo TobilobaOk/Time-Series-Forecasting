@@ -1,6 +1,6 @@
 # Time Series Forecasting- Infaltion Rate Prediction
 
-This project leverages advanced deep learning techniques (LSTM and GRU) to predict Nigeria's inflation rate based on time series and macroeconomic indicators like crude oil price, production, and various CPI components.
+This project leverages advanced deep learning techniques (LSTM and GRU) to predict Nigeria's inflation rate based on time series and macroeconomic indicators like crude oil price, production, and various CPI components. 
 
 ## Project Overview
 
